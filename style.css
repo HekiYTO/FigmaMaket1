@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: #1B1A1A;
+}
+
+nav {
+    color: #1B1A1A;
+    margin-left:auto ;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    font-size: 15px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 90px;
+}
+
+.get-template {
+    background-color: #1B1A1A ;
+    color: #FFFFFF;
+    padding: 13px 18px;
+    border-radius: 14px;
+}
+
+.soph {
+    color: #645C55;
+}
+
+.section-one {
+    height: 720px;
+    display: flex;
+    background-color: #ECE7E4;
+
+}
+
+.left-side-so {
+    padding: 6% 8%;
+    width: 50%;
+    margin: auto;
+}
+
+.right-side-so {
+    width: 50%;
+    height: 100%;
+    background-image: url(images/section-one.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+    line-height: 70.4px;
+    padding: 0;
+    margin: 0;
+    font-size: 64px;
+    font-weight: 400;
+}
+
+.read-more {
+    padding-left: 5%;
+    margin-top: 5%;
+}
+
+.section-two {
+color: #403E3B;
+padding: 5%;
+display: flex;
+width: 50%;
+margin: 0 auto;
+}
+
+.right-st {
+    color: #403E3B;
+    margin: 0 auto;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+}
+
+.stcardimg {
+    width: 84px;
+    height: 84px;
+    border-radius: 50%;
+    border: solid #CEC4BC 3px;
+}
+
+.stcardtext {
+    margin:0 0 0 5% ;
+}
+
+.stcardtext p {
+    line-height: 24px;
+    width: 100%;
+    margin:0 0 0 5% ;
+}
+
+.stcard {
+align-items: center;
+display: flex;
+}
+
+.stwh2 {
+    font-weight: 400;
+}
+
+.stctm {
+    color: #1B1A1A;
+}
+
+.section-three {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 600px;
+    background-image: url(images/BackgroundS3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.sthreep {
+    padding-right: 5% ;
+    margin-left: auto;
+    width: 10%;
+    line-height: 24px;
+    width: 20%;
+    color: #645C55;
+    font-size: 16px;
+}
+
+.sthreep p {
+    margin: 0 0;
+}
