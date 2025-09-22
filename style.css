@@ -148,3 +148,102 @@ display: flex;
 .sthreep p {
     margin: 0 0;
 }
+
+.section-four {
+    padding-top: 5%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sfpsec {
+    width: 30%;
+    padding: 0 5%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: #645C55;
+}
+
+.sfh2 {
+    margin-top: 0;
+
+font-weight: 400;
+font-style: Regular;
+font-size: 39px;
+line-height: 42px;
+letter-spacing: 0%;
+text-align: center;
+color: #1B1A1A;
+}
+
+.sfp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subtitle {
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #645C55;
+}
+
+.sfstp {
+font-weight: 400;
+font-style: Regular;
+font-size: 17px;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+color: #403E3B;
+}
+
+.section-five {
+  display: flex;
+    align-items: center;
+    width: 100%;
+    height: 600px;
+    background-image: url(images/BackgroundS5.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.sfivep {
+padding-right: 5% ;
+    margin-left: auto;
+    width: 10%;
+    line-height: 24px;
+    width: 20%;
+    color: #645C55;
+    font-size: 16px;
+}
+
+.ptitle {
+        font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+leading-trim: NONE;
+line-height: 20px;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+}
+
+.section-six {
+    background-color: #403E3B;
+}
